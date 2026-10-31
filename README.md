@@ -239,4 +239,4 @@ This repository serves as the official landing page for Overthrown. The software
 **Get the most recent version of Overthrown today!**
 
 ---
-**Last updated:** 2026-10-31 12:08:18 UTC
+**Last updated:** 2026-10-31 17:37:17 UTC
